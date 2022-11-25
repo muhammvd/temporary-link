@@ -1,10 +1,3 @@
-/* 
-	Project Name: Auto Repair Colorado;
-	Name of Developer: Danial Pervaiz;
-	Project Created: 26/09/16;
-	Description: Auto Repair Garage in Colorado. Auto-parts and mechanics with cheap rates and great quality work;
-*/
-
 /* 1 imported styles */
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
@@ -4709,4 +4702,8 @@ ul, li {
     border-top: 1px solid #ddd;
     font-size: 14px;
     color: #8e979f;
+}
+.tp-bgimg.defaultimg{
+	height: 92%!important;
+
 }
